@@ -1,7 +1,7 @@
 <?php
   class Coffee
   {
-		protected $roast;
+    protected $roast;
     protected $caffine;
     protected $cost;
 
