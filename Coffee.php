@@ -1,5 +1,5 @@
 <?php
-	class Coffee
+  class Coffee
   {
 		protected $roast;
     protected $caffine;
