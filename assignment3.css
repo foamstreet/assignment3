@@ -1,1 +1,23 @@
-/*styles for assignment 3*/
+body {
+  color: #FFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 62.5%;
+  margin: 0;
+}
+
+.coffee-img {
+  background-image: url("images/beans.jpg");
+  height: 100%;
+  position: fixed;
+  opacity: .85;
+  width: 100%;
+  z-index: -1;
+}
+
+.coffee-block {
+  font-size: 2rem;
+  margin-right: 25px;
+  margin-bottom: 15px;
+  text-align: center;
+  text-shadow: 2px 2px 2px #000;
+}
