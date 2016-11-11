@@ -1,5 +1,5 @@
 <?php
-	class Cappuccino extends Coffee
+  class Cappuccino extends Coffee
   {
     private $foam;
     private $art;
