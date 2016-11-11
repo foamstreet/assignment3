@@ -7,10 +7,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Assignment 3</title>
+  <meta charset="UTF-8">
+  <title>Assignment 3</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-	<link rel="stylesheet" href="assignment3.css">
+  <link rel="stylesheet" href="assignment3.css">
 </head>
 <body>
   <div class="container">
